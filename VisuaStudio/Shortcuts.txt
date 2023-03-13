@@ -1,3 +1,0 @@
-
-Ctr+G: Go line
-Ctr+K+D : Format document
